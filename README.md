@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amanaryan2704"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:amanku7977@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Location-Mohali,%20India-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Punjab,%20India-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Relocation-blueviolet?style=for-the-badge" alt="Open to work"/>
 </p>
 
@@ -59,12 +59,12 @@
 
 **AWS Services**
 <p>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SES-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KMS-7AA116?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Secrets%20Manager-C7131F?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bedrock-01A88D?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square" alt="AWS EC2"/>
+  <img src="https://img.shields.io/badge/AWS%20SES-DD344C?style=flat-square" alt="AWS SES"/>
+  <img src="https://img.shields.io/badge/AWS%20KMS-7AA116?style=flat-square" alt="AWS KMS"/>
+  <img src="https://img.shields.io/badge/Secrets%20Manager-C7131F?style=flat-square" alt="AWS Secrets Manager"/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-01A88D?style=flat-square" alt="Amazon Bedrock"/>
 </p>
 
 **AI & Integrations**
