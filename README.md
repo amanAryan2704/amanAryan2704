@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Places-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kpler-00AEEF?style=flat-square&logoColor=white"/>
 </p>
 
 **Analytics & Tools**
